@@ -5,6 +5,9 @@ channels:
   - ostrokach-forge
   - pkgw-forge
 dependencies:
+  - ipywidgets=7.6
+  - jupyterlab=3.0.6
+  - jupyterlab-python-file
   - python
   - matplotlib
   - numpy
